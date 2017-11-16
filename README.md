@@ -29,6 +29,6 @@ Working Inside OS X Mavericks / OS X Yosemite / OS X El Capitan / macOS Sierra /
 
 ## Instructions
 
-1. Download the Release and Follow every steps in the Video
+1. Download the latest Release and Follow every steps in the Video
 
 [![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/video_10.png)](https://youtu.be/LswHbhTveOU)
